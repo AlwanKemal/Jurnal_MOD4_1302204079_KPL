@@ -1,0 +1,8 @@
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD4_1302204079_KPL\bin\Debug\Jurnal_MOD4_1302204079_KPL.exe.config
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD4_1302204079_KPL\bin\Debug\Jurnal_MOD4_1302204079_KPL.exe
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD4_1302204079_KPL\bin\Debug\Jurnal_MOD4_1302204079_KPL.pdb
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD4_1302204079_KPL\obj\Debug\Jurnal_MOD4_1302204079_KPL.csproj.AssemblyReference.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD4_1302204079_KPL\obj\Debug\Jurnal_MOD4_1302204079_KPL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD4_1302204079_KPL\obj\Debug\Jurnal_MOD4_1302204079_KPL.csproj.CoreCompileInputs.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD4_1302204079_KPL\obj\Debug\Jurnal_MOD4_1302204079_KPL.exe
+C:\Users\Alwan Kemal\Documents\Temp_Coding\Jurnal_MOD4_1302204079_KPL\obj\Debug\Jurnal_MOD4_1302204079_KPL.pdb
